@@ -4,6 +4,8 @@
 
 > Opus-Magnum permettra de faire un premier contact entre les membres et les projets du club.
 
+**NB : Opus-Magnum doit être consulté avec la prévisualisation VSCode pour être totalement appréciée**
+
 # Nouveau chez alphaCode ?
 Voici les projets que AlphaCode mets en avant :
 
