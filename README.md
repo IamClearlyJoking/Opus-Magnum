@@ -70,18 +70,16 @@ https://github.com/yuzu-emu/yuzu/wiki/Contributing
     <br>
     <table align="">
     <tr>
-        <td align="center" width="150"><a href="./compte-rendu/14-03-2020_AlphaCode_réunion.md">AlphaCode</a></td>
-        <td>
-            <code>
-                Description : <br>
-                > Première reunion, premières discussions sur certains sujets du club AlphaCode.<br>
-                > Rapide mock-up du projet Magnum
-                <br>
-                <br>
-                * Points du jour        : Création d'Alphacode et Mise en place des premiers projets<br>
-                * Projet(s) concerné(s) : **Alphacode**, **Opus Magnum**<br>
-                * Type de compte rendu  : **Réunion de positionnement**
-            </code>
+        <td align="center" width="150"><a href="./Compte-rendu/14-03-2020_AlphaCode_réunion.md">AlphaCode</a></td>
+        <td>    
+        Description : <br>
+        > Première reunion, premières discussions sur certains sujets du club AlphaCode.<br>
+        > Rapide mock-up du projet Magnum
+        <br>
+        <br>
+        * Points du jour        : Création d'Alphacode et Mise en place des premiers projets<br>
+        * Projet(s) concerné(s) : **Alphacode**, **Opus Magnum**<br>
+        * Type de compte rendu  : **Réunion de positionnement**
         </td>
     </tr>
     </table>
@@ -93,34 +91,3 @@ Si problèmes ou questions, adressez vous à :
 * [Youssef Z.](youssef.zaagougui@viacesi.fr) (I'amjk#4831<img src="https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png" height="20" valign="bottom" style="transform: scale(-1, 1);" />)
 * [Antoine S.](antoine.soulaire@viacesi.fr) (Antoine#0001<img src="https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png" height="20" valign="bottom" style="transform: scale(-1, 1);" />)
 
-
-<style>
-.circle {
-    border-radius: 50%;
-    width: 45px;
-    height: 45px;
-    padding: 12px;
-
-    background: #fff;
-    border: 2px solid #666;
-    color: #666;
-    text-align: center;
-
-    font: 42px Arial, sans-serif;
-}
-.lowFCircle {
-    border-radius: 50%;
-    width: 45px;
-    height: 45px;
-    padding: 12px;
-
-    background: #fff;
-    border: 2px solid #666;
-    color: #666;
-    text-align: center;
-    
-    vertical-align: middle;
-    font: 20px Arial, sans-serif;
-}
-
-</style>
