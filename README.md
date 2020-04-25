@@ -86,6 +86,24 @@ https://github.com/yuzu-emu/yuzu/wiki/Contributing
     </tr>
     </table>
 </details>
+<details>
+    <summary>28-03-2020</summary>
+    <br>
+    <table align="">
+    <tr>
+        <td align="center" width="150"><a href="./Compte-rendu/28-03-2020_Alphacode_réunion.md">AlphaCode</a></td>
+        <td>    
+        Description : <br>
+        > Révision des logos et de la typologie + cadrage du jeu.<br>
+        <br>
+        <br>
+          * Points du jour        : Typologie, Logo & futur jeu<br>
+          * Projet(s) concerné(s) : Alphacode & Jeu<br>
+          * Type de compte rendu  : réunion de cadrage
+        </td>
+    </tr>
+    </table>
+</details>
 
 # Troubleshooting
 Si problèmes ou questions, adressez vous à :
