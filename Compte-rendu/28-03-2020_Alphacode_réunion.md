@@ -1,11 +1,11 @@
-# TITRE 
+# Révision des choix graphiques #1 
 28-03-2020 : Révision des logos et de la typologie + cadrage du jeu.
 
 * Points du jour        : Typologie, Logo & futur jeu
 * Projet(s) concerné(s) : Alphacode & Jeu
 * Type de compte rendu  : réunion de cadrage
 
-- [TITRE](#titre)
+- [Révision des choix graphiques #1](#r%c3%a9vision-des-choix-graphiques-1)
   - [Typo/logo](#typologo)
     - [Problèmatique](#probl%c3%a8matique)
     - [Points amenés](#points-amen%c3%a9s)
