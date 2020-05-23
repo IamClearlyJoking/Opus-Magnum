@@ -45,6 +45,17 @@ Voici les projets que AlphaCode mets en avant :
 
 </details>
 
+<details open>
+    <summary>Lorann 3D</summary>
+    <br>
+    <table align="center">
+    <tr>
+        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Lorann-3D"><div class="circle">P</div></a></td>
+        <td>Le projet <code>Lorann 3D</code> est un projet de recréation du jeu Lorann mais en 3D dans le cadre du CESI.</td>
+    </tr>
+    </table>
+
+</details>
 # Getting Started
 
 ## Modification de répertoire
