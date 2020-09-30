@@ -6,6 +6,12 @@
 
 **NB : Opus-Magnum doit être consulté avec la prévisualisation VSCode pour être totalement appréciée**
 
+- [Nouveau chez alphaCode ?](#nouveau-chez-alphacode-)
+- [Getting Started](#getting-started)
+  - [Modification de répertoire](#modification-de-répertoire)
+  - [Contribution aux projets](#contribution-aux-projets)
+- [Troubleshooting](#troubleshooting)
+
 # Nouveau chez alphaCode ?
 Voici les projets que AlphaCode mets en avant :
 
@@ -50,8 +56,8 @@ Voici les projets que AlphaCode mets en avant :
     <br>
     <table align="center">
     <tr>
-        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Lorann-3D"><div class="circle">P</div></a></td>
-        <td>Le projet <code>Lorann 3D</code> est un projet de recréation du jeu Lorann mais en 3D dans le cadre du CESI.</td>
+        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Lorann-3D"><div class="circle">L3D</div></a></td>
+        <td>Le projet <code>Lorann 3D</code> est un projet de recréation du jeu Lorann mais en 3D. Le jeu Lorann est un abandonware créé par Novasoft en 1985.</td>
     </tr>
     </table>
 
@@ -77,44 +83,6 @@ Contribution -> règles ?
 Travail en cours, voir :
 https://github.com/yuzu-emu/yuzu/wiki/Contributing
 
-# Réunions
-<details>
-    <summary>14-03-2020</summary>
-    <br>
-    <table align="">
-    <tr>
-        <td align="center" width="150"><a href="./Compte-rendu/14-03-2020_AlphaCode_réunion.md">AlphaCode</a></td>
-        <td>    
-        Description : <br>
-        > Première reunion, premières discussions sur certains sujets du club AlphaCode.<br>
-        > Rapide mock-up du projet Magnum
-        <br>
-        <br>
-        * Points du jour        : Création d'Alphacode et Mise en place des premiers projets<br>
-        * Projet(s) concerné(s) : **Alphacode**, **Opus Magnum**<br>
-        * Type de compte rendu  : **Réunion de positionnement**
-        </td>
-    </tr>
-    </table>
-</details>
-<details>
-    <summary>28-03-2020</summary>
-    <br>
-    <table align="">
-    <tr>
-        <td align="center" width="150"><a href="./Compte-rendu/28-03-2020_Alphacode_réunion.md">AlphaCode</a></td>
-        <td>    
-        Description : <br>
-        > Révision des logos et de la typologie + cadrage du jeu.<br>
-        <br>
-        <br>
-          * Points du jour        : Typologie, Logo & futur jeu<br>
-          * Projet(s) concerné(s) : Alphacode & Jeu<br>
-          * Type de compte rendu  : réunion de cadrage
-        </td>
-    </tr>
-    </table>
-</details>
 
 # Troubleshooting
 Si problèmes ou questions, adressez vous à :
