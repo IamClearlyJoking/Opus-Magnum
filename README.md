@@ -46,7 +46,7 @@ Voici les projets que AlphaCode mets en avant :
 
 ## Modification de répertoire
 
-Pour pouvoir modifier un répertoire, faites un fork du projet et cloner votre copie du répertoire. 
+Pour pouvoir modifier un répertoire, faites un fork du projet et clonez votre copie du répertoire. 
 
 ```bash
     git clone git@github.com:[VotrePseudo]/[NomProjet].git
