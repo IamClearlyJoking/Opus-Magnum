@@ -15,53 +15,33 @@
 # Nouveau chez alphaCode ?
 Voici les projets que AlphaCode mets en avant :
 
-<details open>
-    <summary>The Reverse</summary>
-    <br>
-    <table align="center">
-    <tr>
-        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/The-Reverse"><img src="https://cdn.discordapp.com/avatars/374509590324314112/edb07aacb47012710d1f2a06e5f4368f.png" alt="Missy"></a></td>
-        <td>Le projet <code>The Reverse</code> est un wrapper de la librairie Discord.py qui permet de créer des bots et d'avoir accès au fonctionnalité que permet le client Reverse</td>
-    </tr>
-    </table>
-
+<br>
+<a href="https://github.com/AlphaCodeCorp/The-Reverse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=The-Reverse" />
+</a>
+<a href="https://github.com/AlphaCodeCorp/Exia-Theme-is-beautiful">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=Exia-Theme-is-beautiful" />
+</a>
+<br>
+<a href="https://github.com/AlphaCodeCorp/Opus-Perge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=Opus-Perge" />
+</a>
+<a href="https://github.com/AlphaCodeCorp/Lorann-3D">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=Lorann-3D" />
+</a>
+<br>
+<a href="https://github.com/AlphaCodeCorp/EPScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeCorp&repo=EPScript" />
+</a>
+<!-- <a href="">
+  <img align="center" src="" />
+</a> -->
+<br>
+<br>
+<details closed>
+    <summary>Projets dormants ou terminés</summary>
 </details>
 
-<details open>
-    <summary>Exia Theme is Beautiful</summary>
-    <br>
-    <table align="center">
-    <tr>
-        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Exia-Theme-is-beautiful"><div class="lowFCircle"><span style="line-height:40px">ETIB</span></div><a></td>
-        <td>Le projet <code>Exia-Theme-is-Beautiful</code> aka ETiB est un addon développé en css et en js permettant de remplacer les couleurs de l'ent et du moodle utilisés par le CESI.</td>
-    </tr>
-    </table>
-
-</details>
-
-<details open>
-    <summary>Opus Perge</summary>
-    <br>
-    <table align="center">
-    <tr>
-        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Opus-Perge"><div class="circle">P</div></a></td>
-        <td>Le projet <code>Opus-Perge</code> est un script Python utilisant l'API de l'ent du CESI afin de récupérer les dossiers de synthèse plus efficacement. </td>
-    </tr>
-    </table>
-
-</details>
-
-<details open>
-    <summary>Lorann 3D</summary>
-    <br>
-    <table align="center">
-    <tr>
-        <td align="center" width="75"><a href="https://github.com/AlphaCodeCorp/Lorann-3D"><div class="circle">L3D</div></a></td>
-        <td>Le projet <code>Lorann 3D</code> est un projet de recréation du jeu Lorann mais en 3D. Le jeu Lorann est un abandonware créé par Novasoft en 1985.</td>
-    </tr>
-    </table>
-
-</details>
 # Getting Started
 
 ## Modification de répertoire
