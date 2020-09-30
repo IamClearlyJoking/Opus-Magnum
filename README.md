@@ -4,12 +4,12 @@
 
 > Opus-Magnum permettra de faire un premier contact entre les membres et les projets du club.
 
-**NB : Opus-Magnum doit être consulté avec la prévisualisation VSCode pour être totalement appréciée**
-
+## Sommaire
 - [Nouveau chez alphaCode ?](#nouveau-chez-alphacode-)
-- [Getting Started](#getting-started)
+- [Informations pratiques](#informations-pratiques)
   - [Modification de répertoire](#modification-de-répertoire)
   - [Contribution aux projets](#contribution-aux-projets)
+  - [Ressources (EN version)](#ressources-en-version)
 - [Troubleshooting](#troubleshooting)
 
 # Nouveau chez alphaCode ?
@@ -39,17 +39,17 @@ Voici les projets que AlphaCode mets en avant :
 <br>
 <br>
 <details closed>
-    <summary>Projets dormants ou terminés</summary>
+    <summary>Projets dormants ou terminés (aucun actuellement)</summary>
 </details>
 
-# Getting Started
+# Informations pratiques
 
 ## Modification de répertoire
 
-Pour pouvoir modifier un répertoire, faites un fork du projet `Opus-Magnum` par exemple et cloner votre copie du répertoire. 
+Pour pouvoir modifier un répertoire, faites un fork du projet et cloner votre copie du répertoire. 
 
 ```bash
-    git clone git@github.com:[VotrePseudo]/Opus-Magnum.git
+    git clone git@github.com:[VotrePseudo]/[NomProjet].git
     #Par exemple : git clone git@github.com:AlphaCodeCorp/Opus-Magnum.git
 ```
 
@@ -61,7 +61,11 @@ Sans cela vos modifications peuvent être refusées.
 Contribution -> règles ? 
 
 Travail en cours, voir :
-https://github.com/yuzu-emu/yuzu/wiki/Contributing
+<a href="https://github.com/yuzu-emu/yuzu/wiki/Contributing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuzu-emu&repo=yuzu" />
+</a>
+
+## [Ressources (EN version)](RESOURCES.md)
 
 
 # Troubleshooting
